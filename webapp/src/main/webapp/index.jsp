@@ -32,7 +32,7 @@
   </div>
 
    <h1> Vedi vedi vedi vedi.....</h1>
-   <h1>ASHWINIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII VEDI</h1>
+   <h1>ASHWINI VEDI</h1>
 
   
 </form>
